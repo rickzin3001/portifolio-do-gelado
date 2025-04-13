@@ -10,11 +10,8 @@
 <body>
     <header>
         <h1>Oi! Meu nome é Henrique Ramos e essa é a atividade do gelado🥶</h1>
-
-        <img src="01/foto-henrique.jpg"Minha foto" width="200">
+        <img src="01/foto-henrique.pgn"Minha foto" width="200">
     </header>
-
-
     <main>
         <section>
             <h2>Sobre mim</h2>
@@ -25,7 +22,6 @@
                 <li>Estou aprendendo HTML e quero seguir na área da informática</li>
             </ul>
         </section>
-
         <section>
             <h2>Habilidades</h2>
             <ul>
@@ -35,8 +31,6 @@
                 <li>Sou jogador né papai!⚽</li>
             </ul>
         </section>
-
-
         <section>
             <h2>Projetos</h2>
             <ul>
@@ -45,15 +39,11 @@
                 <li>Jogo em Scratch</li>
             </ul>
         </section>
-
-
         <section>
             <h2>Contato</h2>
             <p>Você pode me encontrar no WhatsApp: <a href="https://wa.me/5551999349639">51 99934-9639</a></p>
             <p>Ou por Email:<a href="mailto:rickmachadoramos2020@gmail.com">Email</a></p>
         </section>
-
-
         <section>
             <h2>Redes sociais</h2>
             <p>Me siga nas redes sociais:</p>
@@ -64,7 +54,6 @@
             <p>Segue eu ai😭🙏</p>
         </section>
     </main>
-
     <footer>
         <p>&copy; 2025 Henrique Ramos</p>
     </footer>
